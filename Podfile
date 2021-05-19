@@ -1,4 +1,4 @@
-platform :ios, '11.2'
+platform :ios, '11.0'
 
 target 'HDWalletKit' do
     use_frameworks!
